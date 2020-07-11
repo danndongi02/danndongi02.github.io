@@ -47,7 +47,8 @@ main
 main img
 {
     /* constrain images on small screens */
-    max-width: 70%;
+    max-width: 75%;
+    float: center;
 }
 
 .previous
